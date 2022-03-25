@@ -29,3 +29,13 @@ feed, notifications, user
 ## GraphQL은 단 하나의 Api만 존재한다.
 
 단 하나의 Api에 query를 보내 언제든 필요한 데이터만 가져올 수 있다!
+
+# Syntax
+
+## Query
+
+데이터를 가져올 때만 사용한다.
+
+## Mutation
+
+데이터를 수정할 때 사용한다. (말 그대로 데이터의 변형 = set)
